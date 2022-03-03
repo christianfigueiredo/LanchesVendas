@@ -24,3 +24,6 @@
 /home/christian/Documentos/Projetos/LanchesVendas/obj/Debug/net6.0/ref/LanchesVendas.dll
 /home/christian/Documentos/Projetos/LanchesVendas/obj/Debug/net6.0/LanchesVendas.pdb
 /home/christian/Documentos/Projetos/LanchesVendas/obj/Debug/net6.0/LanchesVendas.genruntimeconfig.cache
+C:\Users\christian\Documents\projetos\obj\Debug\net6.0\LanchesVendas.dll
+C:\Users\christian\Documents\projetos\obj\Debug\net6.0\ref\LanchesVendas.dll
+C:\Users\christian\Documents\projetos\obj\Debug\net6.0\LanchesVendas.pdb
